@@ -42,3 +42,9 @@ p {
     padding: 5px 20px 10px;
     margin: 20px auto;
 }
+
+.inpara {
+    background-color: #b0b0b0;
+    padding: 2px 20px;
+    margin: 5px 0px;
+}
