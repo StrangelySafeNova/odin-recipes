@@ -36,3 +36,9 @@ p {
 .box ul li {
     margin: 10px 30px;
 }
+
+.para {
+    background-color: #c9c9c9;
+    padding: 5px 20px 10px;
+    margin: 20px auto;
+}
