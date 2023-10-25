@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 ul li {
     font-family: 'Times New Roman', Times, serif;
 }
@@ -8,4 +12,27 @@ ol li {
 
 p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box {
+    background-color: #ebd234;
+    width: 600px;
+    padding: 20px 40px;
+    margin: 30px auto;
+}
+
+.box h1 {
+    background-color: white;
+    text-align: center;
+    height: 60px;
+    padding: 10px;
+}
+
+.box ul {
+    background-color: white;
+    padding: 20px;
+}
+
+.box ul li {
+    margin: 10px 30px;
 }
